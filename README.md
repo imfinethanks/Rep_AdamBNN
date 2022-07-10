@@ -39,7 +39,7 @@ This is the pytorch implementation of our paper ["RepBNN: towards a precise Bina
 | --- | --- | --- | --- | --- | 
 | ReActNet | ReActNet-A | 69.4% | 0.87 x 10^8 | [Model-ReAct](https://hkustconnect-my.sharepoint.com/:u:/g/personal/zliubq_connect_ust_hk/EZAJ5OPNyKJColmmJPkD-ysBP2uozsXMzbbA9giOuS21TA?e=HnKOCs) | 
 | AdamBNN | ReActNet-A | 70.5% | 0.87 x 10^8 | [Model-ReAct-AdamBNN-Training](https://hkustconnect-my.sharepoint.com/:u:/g/personal/zliubq_connect_ust_hk/EXEsfAt42gNLqfzt09BMoTwBbYT6sxH5VkZ_9DmBWhJxXg?e=fd4f5v) |
-| Rep_AdamBNN | ReActNet-A | 71.34% | 0.88 x 10^8 | [Model-Rep-ReAct-AdamBNN-Training](https://hkustconnect-my.sharepoint.com/:u:/g/personal/zliubq_connect_ust_hk/EXEsfAt42gNLqfzt09BMoTwBbYT6sxH5VkZ_9DmBWhJxXg?e=fd4f5v) |
+| Rep_AdamBNN | ReActNet-A | 71.34% | 0.88 x 10^8 | [Model-Rep-ReAct-AdamBNN-Training](https://pan.seu.edu.cn:443/link/368195B6FFEAFC35C804A08CAF457D65) |
 
 
 ## Acknowlegement

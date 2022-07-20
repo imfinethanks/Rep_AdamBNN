@@ -1,8 +1,6 @@
 # Rep_AdamBNN
 
-This is the pytorch implementation of our paper ["RepBNN: towards a precise Binary Neural Network with Enhanced Feature Map via Repeating"].
-
-<!-- (https://arxiv.org/abs/2106.11309).  -->
+This is the pytorch implementation of our paper ["RepBNN: towards a precise Binary Neural Network with Enhanced Feature Map via Repeating"](https://arxiv.org/abs/2207.09049).
 
 
 <!-- ## Citation -->
